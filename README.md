@@ -9,3 +9,5 @@
 ![facebook](https://github.com/KonakandlaMeghana/portfolio_Website/assets/109908001/04dcfd65-b8b3-47df-acc3-38ae1900b263)
 
 ![filetype-html](https://github.com/KonakandlaMeghana/portfolio_Website/assets/109908001/31e19562-8099-4c31-a5a4-d15e75de9ae9)
+
+![linkedin](https://github.com/KonakandlaMeghana/portfolio_Website/assets/109908001/937252f5-9749-48fc-a02c-39ef2e7b4513)
